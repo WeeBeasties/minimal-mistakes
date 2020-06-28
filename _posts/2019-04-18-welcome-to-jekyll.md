@@ -7,6 +7,7 @@ tags:
   - Jekyll
   - update
 toc: true
+toc_lable: "Page Contents"
 toc_icon: "cog"
 ---
 
